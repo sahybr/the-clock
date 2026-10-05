@@ -2,8 +2,8 @@
 
 <p>
     <img alt="Status Concluído" src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sahyber/the-clock">
-    <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/sahyber/the-clock">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sahybr/the-clock">
+    <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/sahybr/the-clock">
 </p>
 
 Um aplicativo de relógio digital simples desenvolvido em Python utilizando a biblioteca Tkinter. Nele, é exibido uma saudação personalizada com o nome do usuário do sistema, a data atual e as horas em tempo real, contando também com a funcionalidade Dark e Light Mode.
@@ -32,7 +32,7 @@ Um aplicativo de relógio digital simples desenvolvido em Python utilizando a bi
 1. Clone esse repositório:
 
 ```bash
-git clone https://github.com/sahyber/the-clock.git
+git clone https://github.com/sahybr/the-clock.git
 ```
 
 2. Certifique-se de que os arquivos de fontes e ícones estão dentro da pasta correta conforme o tópico de estrutura de pastas.
